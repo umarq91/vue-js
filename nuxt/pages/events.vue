@@ -2,6 +2,9 @@
 definePageMeta({
   layout: "events",
 });
+
+const { sayHello } = useTest();
+sayHello("Umer evets");
 </script>
 
 <template>
