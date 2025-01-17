@@ -10,3 +10,6 @@ important points
         layout: 'custom'
     })
     - Or we can set the :name parameter static or dynamically in Nuxtlayout in App.vue
+
+# Composables
+  - Composables are like custom Hooks , start it with use , and inside write the logic and methods and return em.
